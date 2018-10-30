@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a space to work on documents before saving newer changes for them in the repository. The directory is simply a visual tool for finding the most recent version of those documents.
